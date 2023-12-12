@@ -1,0 +1,2 @@
+This project will be a practice and consolidation of everything I have learnt about HTML so far in the Odin Project. 
+By the end of it I should be able to create an HTML file from scratch, commit properly, and link to other resources. 
