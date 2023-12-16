@@ -1,0 +1,26 @@
+body {
+    background-color: beige;
+}
+
+.title {
+    color: gold;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: green;
+}
+
+.title.subsection {
+    text-align: left;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+p,
+li {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
